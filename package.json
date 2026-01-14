@@ -1,0 +1,16 @@
+{
+  "name": "backendtut",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "romila",
+  "main": "javascript.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "random-words": "^2.0.1",
+    "randomwords": "^1.0.3"
+  }
+}
